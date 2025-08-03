@@ -1,0 +1,2 @@
+2025-08-03 13:31:23.970 main.py[77] navigate_to_tab -> Find Control Timeout(10s): {Name: '通讯录', ControlType: ButtonControl}
+2025-08-03 13:32:15.299 main.py[77] navigate_to_tab -> Find Control Timeout(10s): {Name: '通讯录', ControlType: ButtonControl}
